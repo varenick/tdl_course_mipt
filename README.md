@@ -2,9 +2,11 @@
 
 This is a GitHub page of Theories of Deep Learning course held by Neural Networks and Deep Learning Lab., MIPT. The working language of this course is Russian.
 
+Lectures slides and homework assignments will be placed in this repo.
+
 Location: Moscow Institute of Physics and Technology, Phystech.Bio building, room *TBA*
 
-This course starts at the second week of February, 2019. Exact start date will be announced later.
+This course starts at the second week of February, 2019 (after 12-th of February). Exact start date will be announced later.
 
 Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjxJHIrD8IuFvfqVLPw
 
