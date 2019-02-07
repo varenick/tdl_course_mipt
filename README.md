@@ -6,7 +6,9 @@ Lectures slides and homework assignments will be placed in this repo.
 
 Location: Moscow Institute of Physics and Technology, Phystech.Bio building, room *TBA*
 
-This course starts at the second week of February, 2019 (after 12-th of February). Exact start date will be announced later.
+This course will (normally) start at the second week of February, 2019 (after 12-th of February). If you are going to be present at lectures, please, vote for the day and time at Doodle: https://doodle.com/poll/kvfd3fih7hsvftms .
+
+Also, we are going to take videos (we are not sure about the quality, though).
 
 Further announcements will be in our Telegram chat: https://t.me/joinchat/D_ljjxJHIrD8IuFvfqVLPw
 
